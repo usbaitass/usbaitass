@@ -1,6 +1,8 @@
 <h1> Welcome to my Github profile page </h1>
 
-
+<p>
+  A little about myself and what I am good at:
+</p>
 
 <!--
 **usbaitass/usbaitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
