@@ -1,8 +1,14 @@
 <h3> Welcome to my Github profile page </h3>
 
-<p style="font-weight:bold">
-  A little about myself and what I am good at:
+<p>
+  A little about myself, what I am good at and which projects might interest me:
 </p>
+
+<style>
+  p{
+    font-weight: bold;
+  }
+</style>
 
 <!--
 **usbaitass/usbaitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
