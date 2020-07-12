@@ -1,14 +1,11 @@
 <h3> Welcome to my Github profile page </h3>
 
+<h5>A little about myself, what I am good at and which projects might interest me:</h5>
 <p>
-  A little about myself, what I am good at and which projects might interest me:
+  I am aspiring software engineer. Currently working full-time as web developer.
+  <br>
+  I love JS and want to become good front-end web dev.
 </p>
-
-<style>
-  p{
-    font-weight: bold;
-  }
-</style>
 
 <!--
 **usbaitass/usbaitass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
