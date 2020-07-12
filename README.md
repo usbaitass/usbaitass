@@ -1,7 +1,7 @@
-<h3> Welcome to my Github profile page </h3>
+<h2> Welcome to my Github profile page </h2>
 
-<h5>A little about myself, what I am good at and which projects might interest me:</h5>
 <p>
+  <h4>A little about myself, what I am good at and which projects might interest me:</h4><br>
   I am aspiring software engineer. Currently working full-time as web developer.
   <br>
   I love JS and want to become good front-end web dev.
