@@ -1,6 +1,4 @@
-### Good day Sir/Madam
-
-<h1> Welcome </h1>
+<h1> Welcome to my Github profile page </h1>
 
 
 
