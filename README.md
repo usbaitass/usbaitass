@@ -2,7 +2,8 @@
 
 <p>
   <h4>A little about myself, what I am good at and which projects might interest me:</h4>
-  I am aspiring software engineer. Currently working full-time as web developer.<br>
+  I am aspiring software engineer. <br>
+  Currently working full-time as a web developer.
 </p>
 
 <!--
