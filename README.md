@@ -1,6 +1,6 @@
-<h1> Welcome to my Github profile page </h1>
+<h3> Welcome to my Github profile page </h3>
 
-<p>
+<p style="font-weight:bold">
   A little about myself and what I am good at:
 </p>
 
